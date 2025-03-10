@@ -1,4 +1,4 @@
-const apiUrl = 'https://3c36-2804-7f4-6240-cdd1-a02f-e998-900b-ee1c.ngrok-free.app '; // URL do servidor Express
+const apiUrl = 'https://3c36-2804-7f4-6240-cdd1-a02f-e998-900b-ee1c.ngrok-free.app'; // URL do servidor Express
 
 // Função para carregar todos os produtos da Tabela 1
 async function carregarProdutos() {
